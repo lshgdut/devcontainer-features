@@ -7,7 +7,7 @@ Install "zellij" binary
 
 ```json
 "features": {
-    "ghcr.io/devcontainer-community/devcontainer-features/zellij.dev:1": {}
+    "ghcr.io/lshgdut/devcontainer-features/zellij.dev:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Install "zellij" binary
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainer-community/devcontainer-features/blob/main/src/zellij.dev/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/lshgdut/devcontainer-features/blob/main/src/zellij.dev/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

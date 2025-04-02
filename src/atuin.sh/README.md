@@ -7,7 +7,7 @@ Install "atuin" binary
 
 ```json
 "features": {
-    "ghcr.io/devcontainer-community/devcontainer-features/atuin.sh:1": {}
+    "ghcr.io/lshgdut/devcontainer-features/atuin.sh:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Install "atuin" binary
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainer-community/devcontainer-features/blob/main/src/atuin.sh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/lshgdut/devcontainer-features/blob/main/src/atuin.sh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
